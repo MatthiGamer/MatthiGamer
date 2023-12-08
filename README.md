@@ -134,8 +134,14 @@
 <a href="https://learn.microsoft.com/de-de/dotnet/desktop/wpf/xaml/?view=netdesktop-8.0">
     <img src="https://img.shields.io/badge/XAML-0C54C2?labelColor=white&logo=xaml&logoColor=0C54C2" height="25"/></a>
 
+### 📊 Github Stats
 
-🏆 Github Trophies
+[![](https://github-readme-stats.vercel.app/api/?username=MatthiGamer&show_icons=true&theme=algolia&border_color=2DDE98&rank_icon=github&include_all_commits=true&custom_title=My%20Github%20Stats)]()
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthiGamer&theme=algolia&hide_border=false&include_all_commits=true&langs_count=6&layout=compact)]()
+
+
+### 🏆 Github Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=MatthiGamer&theme=algolia&rank=B,A,AA,AAA,S,SS,SSS&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
