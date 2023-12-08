@@ -1,3 +1,6 @@
+
+
+
 ### 📚 Tech Stack
 <!--
 [![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://learn.microsoft.com/de-de/dotnet/)
@@ -130,3 +133,13 @@
 <!-- XAML -->
 <a href="https://learn.microsoft.com/de-de/dotnet/desktop/wpf/xaml/?view=netdesktop-8.0">
     <img src="https://img.shields.io/badge/XAML-0C54C2?labelColor=white&logo=xaml&logoColor=0C54C2" height="25"/></a>
+
+
+🏆 Github Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=MatthiGamer&theme=algolia&rank=B,A,AA,AAA,S,SS,SSS&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!--
+### 💬 Developer Quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+-->
