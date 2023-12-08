@@ -140,7 +140,7 @@
 ### 📊 Github Stats
 
 [![](https://github-readme-stats.vercel.app/api/?username=MatthiGamer&show_icons=true&theme=algolia&border_color=2DDE98&rank_icon=github&include_all_commits=true&custom_title=My%20Github%20Stats)]()
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthiGamer&theme=algolia&hide_border=false&include_all_commits=true&langs_count=6&layout=compact)]()
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthiGamer&theme=algolia&hide_border=false&border_color=2DDE98&include_all_commits=true&langs_count=6&layout=compact)]()
 
 
 ### 🏆 Github Trophies
