@@ -61,33 +61,37 @@
 <a href="https://learn.microsoft.com/de-de/dotnet/csharp/">  
   <img src="https://img.shields.io/badge/C%23-7D0D7B.svg?labelColor=white&logo=csharp&logoColor=7D0D7B" height="25"/></a>
 
-<!-- C++ -->
+<!-- C++
 <a href="https://cplusplus.com/">
     <img src="https://img.shields.io/badge/C++-00599C?labelColor=white&logo=cplusplus&logoColor=00599C" height="25"/></a>
+-->
 
 <!-- CSS3 -->
 <a href="https://wiki.selfhtml.org/wiki/CSS">
     <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white" height="25"/></a>
 
-<!-- Docker -->
+<!-- Docker
 <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?labelColor=white&logo=docker&logoColor=2496ED" height="25"/></a>
+-->
 
 <!-- Git -->
 <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/Git-F05032?labelColor=F0F0E8&logo=git&logoColor=F05032" height="25"/></a>
 
-<!-- GraphQL -->
+<!-- GraphQL
 <a href="https://graphql.org/">
     <img src="https://img.shields.io/badge/GraphQL-20242C?logo=graphql&logoColor=E10098" height="25"/></a>
+-->
 
 <!-- HTML -->
 <a href="https://wiki.selfhtml.org/wiki/HTML">
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white" height="25"/></a>
 
-<!-- Java -->
+<!-- Java
 <a href="https://www.java.com/">
     <img src="https://img.shields.io/badge/Java-3A75B0.svg" height="25"/></a>
+-->
 
 <!-- Javascript -->
 <a href="https://wiki.selfhtml.org/wiki/JavaScript">
@@ -97,9 +101,10 @@
 <a href="https://www.linux.org/">
     <img src="https://img.shields.io/badge/Linux-black?labelColor=white&logo=linux&logoColor=black" height="25"/></a>
 
-<!-- MongoDB -->
+<!-- MongoDB
 <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/MongoDB-47A248.svg?labelColor=white&logo=mongodb&logoColor=47A248" height="25"/></a>
+-->
 
 <!-- NodeJS -->
 <a href="https://nodejs.org/">
@@ -113,9 +118,10 @@
 <a href="https://react.dev/">
     <img src="https://img.shields.io/badge/React.js-242729.svg?logo=react&logoColor=61DAFB" height="25"/></a>
 
-<!-- Scala -->
+<!-- Scala
 <a href="https://www.scala-lang.org/">
     <img src="https://img.shields.io/badge/Scala-DC322F?labelColor=white&logo=scala&logoColor=DC322F" height="25"/></a>
+-->
 
 <!-- SQL -->
 <a href="https://www.w3schools.com/sql/">
@@ -129,13 +135,15 @@
 <a href="https://unity.com/">
     <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=CCCCCC" height="25"/></a>
 
-<!-- Xamarin -->
+<!-- Xamarin
 <a href="https://dotnet.microsoft.com/en-us/apps/xamarin">
     <img src="https://img.shields.io/badge/Xamarin-3498DB?labelColor=white&logo=xamarin&logoColor=3498DB" height="25"/></a>
+-->
 
-<!-- XAML -->
+<!-- XAML
 <a href="https://learn.microsoft.com/de-de/dotnet/desktop/wpf/xaml/?view=netdesktop-8.0">
     <img src="https://img.shields.io/badge/XAML-0C54C2?labelColor=white&logo=xaml&logoColor=0C54C2" height="25"/></a>
+-->
 
 ### 📊 Github Stats
 
