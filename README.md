@@ -148,6 +148,7 @@
 ### 📊 Github Stats
 
 [![](https://github-readme-stats.vercel.app/api/?username=MatthiGamer&show_icons=true&theme=algolia&border_color=2DDE98&rank_icon=github&include_all_commits=true&custom_title=My%20Github%20Stats)]()
+[![](https://github-readme-streak-stats.herokuapp.com/?user=MatthiGamer&theme=algolia&hide_border=false&border=2DDE98&fire=2DDE98&ring=2DDE98)]()
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthiGamer&theme=algolia&hide_border=false&border_color=2DDE98&include_all_commits=true&langs_count=6&layout=compact)]()
 
 
