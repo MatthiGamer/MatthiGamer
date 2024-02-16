@@ -55,7 +55,11 @@
 
 <!-- .NET -->
 <a href="https://learn.microsoft.com/de-de/dotnet/">
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white" height="25"/></a>
+  <img src="https://img.shields.io/badge/.NET Core-512BD4?logo=.net&logoColor=white" height="25"/></a>
+
+<!-- .NET -->
+<a href="https://learn.microsoft.com/de-de/dotnet/">
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?logo=.net&logoColor=white" height="25"/></a>
 
 <!-- C# -->
 <a href="https://learn.microsoft.com/de-de/dotnet/csharp/">  
@@ -110,6 +114,10 @@
 <a href="https://nodejs.org/">
     <img src="https://img.shields.io/badge/Node.js-339933?labelColor=white&logo=nodedotjs&logoColor=339933" height="25"/></a>
 
+<!-- NuGet -->
+<a href="https://learn.microsoft.com/de-de/dotnet/csharp/">  
+  <img src="https://img.shields.io/badge/NuGet-004880.svg?labelColor=white&logo=nuget&logoColor=004880" height="25"/></a>
+
 <!-- Python -->
 <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-3C79AA?logo=python&logoColor=F9DF59" height="25"/></a>
@@ -122,6 +130,10 @@
 <a href="https://www.scala-lang.org/">
     <img src="https://img.shields.io/badge/Scala-DC322F?labelColor=white&logo=scala&logoColor=DC322F" height="25"/></a>
 -->
+
+<!-- ASP.NET SignalR -->
+<a href="https://learn.microsoft.com/de-de/dotnet/">
+  <img src="https://img.shields.io/badge/SignalR-512BD4?logo=.net&logoColor=white" height="25"/></a>
 
 <!-- SQL -->
 <a href="https://www.w3schools.com/sql/">
