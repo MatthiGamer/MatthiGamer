@@ -163,10 +163,11 @@
 [![](https://github-readme-streak-stats.herokuapp.com/?user=MatthiGamer&theme=algolia&hide_border=false&border=2DDE98&fire=2DDE98&ring=2DDE98)]()
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthiGamer&theme=algolia&hide_border=false&border_color=2DDE98&include_all_commits=true&langs_count=6&layout=compact)]()
 
-
+<!--
 ### 🏆 Github Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MatthiGamer&theme=algolia&rank=B,A,AA,AAA,S,SS,SSS&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 <!--
 ### 💬 Developer Quote
