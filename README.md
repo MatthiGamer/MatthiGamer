@@ -53,6 +53,10 @@
 [![XAML](https://img.shields.io/badge/XAML-white?logo=xaml&logoColor=0C54C2)](https://learn.microsoft.com/de-de/dotnet/desktop/wpf/xaml/?view=netdesktop-8.0)
 -->
 
+<!-- Blazor -->
+<a href="https://learn.microsoft.com/de-de/dotnet/">
+  <img src="https://img.shields.io/badge/Blazor-512BD4?logo=.net&logoColor=white" height="25"/></a>
+
 <!-- .NET -->
 <a href="https://learn.microsoft.com/de-de/dotnet/">
   <img src="https://img.shields.io/badge/.NET Core-512BD4?logo=.net&logoColor=white" height="25"/></a>
